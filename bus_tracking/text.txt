@@ -1,0 +1,21 @@
+1. node server.js #run this in first terminal 
+it shows :
+node server.js
+Server running at http://localhost:3000
+
+2  ngrok http 3000 # run this in the second terminal
+it shows :
+ngrok                                                                          (Ctrl+C to quit)
+                                                                                               
+LLMs 4x smaller, 2x faster: https://ngrok.com/blog/quantization                                
+                                                                                               
+Session Status                online                                                           
+Account                       pavanbr041207@gmail.com (Plan: Free)                             
+Version                       3.37.3                                                           
+Region                        India (in)                                                       
+Web Interface                 http://127.0.0.1:4040                                            
+Forwarding                    https://pseudoviperous-krysta-dampishly.ngrok-free.dev -> http://
+
+3. https://pseudoviperous-krysta-dampishly.ngrok-free.dev/mobile.html run this in the moble of driver
+
+4. http://localhost:3000   run this in th system where the code is present 
